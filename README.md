@@ -6,7 +6,7 @@ Flip the cards, test your memory, and match all the pairs! 🃏✨
 ---
 
 ## 🚀 Live Demo  
-🔗 [Play the Game Here](https://688f6dc81d9c62778ca9a6e4--memory-game-07.netlify.app/)  
+🔗 [Play the Game Here]([https://68922b82d66a7736b6cb4cc2--memory-game-07.netlify.app])  
 
 ---
 
