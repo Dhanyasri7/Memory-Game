@@ -1,13 +1,18 @@
 {
-  "name": "memory-game",
+  "name": "memory-game-enhanced",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "type": "module",
+  "description": "Enhanced Memory Game with timer, score system, difficulty levels, sound effects, and modern UI",
+  "author": "Memory Game Team",
+  "keywords": ["memory", "game", "react", "vite", "puzzle", "brain-training"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "clean": "rm -rf dist",
+    "build:prod": "npm run clean && npm run build"
   },
   "dependencies": {
     "react": "^19.1.0",
