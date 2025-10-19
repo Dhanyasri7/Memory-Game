@@ -7,6 +7,18 @@ const ELEMENTS = [
   { name: "shinchan", image: "/assets/m6.png" },
   { name: "spider", image: "/assets/m7.png" },
   { name: "lilo", image: "/assets/m8.png" },
+  // Duplicate some elements for hard mode (6x6 = 18 pairs)
+  { name: "maasha1_dup", image: "/assets/m1.png" },
+  { name: "maasha2_dup", image: "/assets/m2.png" },
+  { name: "elsa_dup", image: "/assets/m3.png" },
+  { name: "olaf_dup", image: "/assets/m4.png" },
+  { name: "tom&jerry_dup", image: "/assets/m5.png" },
+  { name: "shinchan_dup", image: "/assets/m6.png" },
+  { name: "spider_dup", image: "/assets/m7.png" },
+  { name: "lilo_dup", image: "/assets/m8.png" },
+  // Add more duplicates to reach 18 pairs
+  { name: "maasha1_dup2", image: "/assets/m1.png" },
+  { name: "maasha2_dup2", image: "/assets/m2.png" },
 ];
 
 
